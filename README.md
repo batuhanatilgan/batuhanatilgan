@@ -14,7 +14,9 @@
 
 ### 📫 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-at%C4%B1lgan-824293253)  
-[![Email](https://img.shields.io/badge/Email-batuhanatilgan54@gmail.com-orange?logo=gmail&logoColor=white)](mailto:batuhanatilgan54@gmail.com)
+[![Email](https://img.shields.io/badge/Email-batuhanatilgan54@gmail.com-orange?logo=gmail&logoColor=white)](mailto:batuhanatilgan54@gmail.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-batuhanatilgan-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/batuhanatilgan/)
+
 
 ---
 
