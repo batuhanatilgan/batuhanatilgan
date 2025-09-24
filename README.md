@@ -1,18 +1,18 @@
-<h1 align="center">👋 Merhaba, Ben Batuhan Atılgan</h1>
+<h1 align="center">👋 Hi, I'm Batuhan Atılgan</h1>
 <p align="center">
-  Yönetim Bilişim Sistemleri 4. sınıf öğrencisi ve İstanbul Üniversitesi Bilgisayar Programcılığı öğrencisiyim. <br>
-  Yazılım geliştirici adayı olarak kendimi geliştiriyorum.
+  Management Information Systems senior & Computer Programming student at Istanbul University. <br>
+  Aspiring software developer.
 </p>
 
 ---
 
-### 📫 Sosyal Bağlantılar
+### 📫 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-at%C4%B1lgan-824293253)  
-[![E-posta](https://img.shields.io/badge/Email-batuhanatilgan54@gmail.com-orange?logo=gmail&logoColor=white)](mailto:batuhanatilgan54@gmail.com)
+[![Email](https://img.shields.io/badge/Email-batuhanatilgan54@gmail.com-orange?logo=gmail&logoColor=white)](mailto:batuhanatilgan54@gmail.com)
 
 ---
 
-### 📝 Diller
+### 📝 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" /> 
@@ -25,7 +25,7 @@
 
 ---
 
-### 💻 Teknolojiler
+### 💻 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 🚀 Projeler
+### 🚀 Projects
 
 **Film Tavsiye Robotu** (Python, Tkinter, JSON)  
 - Kullanıcıların yaş ve tercih ettiği film türlerine göre film önerileri sunan masaüstü uygulaması.  
