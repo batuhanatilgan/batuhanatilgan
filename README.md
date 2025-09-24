@@ -1,8 +1,14 @@
-<h1 align="center">👋 Hi, I'm Batuhan Atılgan</h1>
+<h1 align="center">👋 Merhaba, Ben Batuhan Atılgan</h1>
 <p align="center">
-  Management Information Systems senior & Computer Programming student at Istanbul University. <br>
-  Aspiring software developer.
+  Yönetim Bilişim Sistemleri 4. sınıf öğrencisi & İstanbul Üniversitesi Bilgisayar Programcılığı öğrencisiyim. <br>
+  Yazılım geliştirici adayı olarak kendimi geliştiriyorum ve gerçek projelerle deneyim kazanıyorum. <br>
+  👨‍💻 Yazılım geliştirme | 📊 Veri işleme | 🎨 UI/UX tasarım ilgisi
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/batuhan-at%C4%B1lgan-824293253" target="_blank">LinkedIn Profilim</a> •
+  <a href="mailto:batuhanatilgan54@gmail.com">E-posta Gönder</a>
+</p>
+
 
 ---
 
