@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">👋 Merhaba, Ben Batuhan Atılgan</h1>
+<p align="center">
+  Yönetim Bilişim Sistemleri 4. sınıf öğrencisi ve İstanbul Üniversitesi Bilgisayar Programcılığı öğrencisiyim. <br>
+  Yazılım geliştirici adayı olarak kendimi geliştiriyorum.
+</p>
 
-<!--
-**batuhanatilgan/batuhanatilgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 Sosyal Bağlantılar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-at%C4%B1lgan-824293253)  
+[![E-posta](https://img.shields.io/badge/Email-batuhanatilgan54@gmail.com-orange?logo=gmail&logoColor=white)](mailto:batuhanatilgan54@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📝 Diller
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MS%20Office-D83B01?logo=microsoft-office&logoColor=white" />
+</p>
+
+---
+
+### 💻 Teknolojiler
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thinker-00AEEF?logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Projeler
+
+**Film Tavsiye Robotu** (Python, Tkinter, JSON)  
+- Kullanıcıların yaş ve tercih ettiği film türlerine göre film önerileri sunan masaüstü uygulaması.  
+- JSON tabanlı veri seti kullanılarak film türlerini, anahtar kelimeleri ve yaş sınırlamalarını işledim.  
+- Tkinter ile kullanıcı dostu arayüz tasarladım.  
+- Film seçimi için puanlama ve rastgele seçim algoritmasını uyguladım.  
+- Veri işleme ve öneri sistemleri mantığını pratik ederek tavsiye sistemleri konusunda deneyim kazandım.
+
+**CV Başvuru ve Puanlama Sistemi** (Python, Flask, HTML, CSS, JSON)  
+- Flask tabanlı web uygulaması geliştirerek adayların başvuru verilerini topladım, JSON formatında depoladım ve yönetilebilir hale getirdim.  
+- Programlama dilleri, mezuniyet ve deneyim yılı gibi kriterlere göre adayları otomatik puanlayan dinamik bir değerlendirme sistemi tasarladım.  
+- Kullanıcı dostu arayüz ve esnek puanlama mantığı ile işe alım süreçlerinde hızlı ve objektif ön eleme yapılmasını sağladım.
