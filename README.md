@@ -1,14 +1,14 @@
 <h1 align="center"> Merhaba, Ben Batuhan Atılgan</h1>
-<p align="center">
+<p align="center" style="background-color:#f8f9fa; padding:15px; border-radius:10px;">
   Yönetim Bilişim Sistemleri 4. sınıf öğrencisi & İstanbul Üniversitesi Bilgisayar Programcılığı öğrencisiyim. <br>
   Yazılım geliştirici adayı olarak kendimi geliştiriyorum ve gerçek projelerle deneyim kazanıyorum. <br>
   👨‍💻 Yazılım geliştirme | 📊 Veri işleme | 🎨 UI/UX tasarım ilgisi
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/batuhan-at%C4%B1lgan-824293253" target="_blank">LinkedIn Profilim</a> •
   <a href="mailto:batuhanatilgan54@gmail.com">E-posta Gönder</a>
 </p>
-
 
 ---
 
@@ -16,7 +16,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-at%C4%B1lgan-824293253)  
 [![Email](https://img.shields.io/badge/Email-batuhanatilgan54@gmail.com-orange?logo=gmail&logoColor=white)](mailto:batuhanatilgan54@gmail.com)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-batuhanatilgan-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/batuhanatilgan/)
-
 
 ---
 
@@ -37,7 +36,7 @@
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Thinker-00AEEF?logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-00AEEF?logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
@@ -60,4 +59,12 @@
 **CV Başvuru ve Puanlama Sistemi** (Python, Flask, HTML, CSS, JSON)  
 - Flask tabanlı web uygulaması geliştirerek adayların başvuru verilerini topladım, JSON formatında depoladım ve yönetilebilir hale getirdim.  
 - Programlama dilleri, mezuniyet ve deneyim yılı gibi kriterlere göre adayları otomatik puanlayan dinamik bir değerlendirme sistemi tasarladım.  
-- Kullanıcı dostu arayüz ve esnek puanlama mantığı ile işe alım süreçlerinde hızlı ve objektif ön eleme yapılmasını sağladım.
+- Kullanıcı dostu arayüz ve esnek puanlama mantığı ile işe alım süreçlerinde hızlı ve objektif ön eleme yapılmasını sağladım.  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=batuhanatilgan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=batuhanatilgan&theme=tokyonight" alt="GitHub Streak" />
+</p>
