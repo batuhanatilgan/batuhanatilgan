@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba, Ben Batuhan Atılgan</h1>
+<h1 align="center"> Merhaba, Ben Batuhan Atılgan</h1>
 <p align="center">
   Yönetim Bilişim Sistemleri 4. sınıf öğrencisi & İstanbul Üniversitesi Bilgisayar Programcılığı öğrencisiyim. <br>
   Yazılım geliştirici adayı olarak kendimi geliştiriyorum ve gerçek projelerle deneyim kazanıyorum. <br>
