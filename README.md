@@ -1,14 +1,16 @@
 <h1 align="center"> Merhaba, Ben Batuhan Atılgan</h1>
-<p align="center" style="background-color:#f8f9fa; padding:15px; border-radius:10px;">
+
+<div align="center" style="
+  background: linear-gradient(135deg, #007BFF, #00C6FF);
+  padding: 20px;
+  border-radius: 15px;
+  color: white;
+  font-size: 16px;
+">
   Yönetim Bilişim Sistemleri 4. sınıf öğrencisi & İstanbul Üniversitesi Bilgisayar Programcılığı öğrencisiyim. <br>
   Yazılım geliştirici adayı olarak kendimi geliştiriyorum ve gerçek projelerle deneyim kazanıyorum. <br>
   👨‍💻 Yazılım geliştirme | 📊 Veri işleme | 🎨 UI/UX tasarım ilgisi
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/batuhan-at%C4%B1lgan-824293253" target="_blank">LinkedIn Profilim</a> •
-  <a href="mailto:batuhanatilgan54@gmail.com">E-posta Gönder</a>
-</p>
+</div>
 
 ---
 
