@@ -45,23 +45,38 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/DockerCompose-0db7ed?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/JupyterNotebook-F37626?logo=jupyter&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 Projects
 
-**Film Tavsiye Robotu** (Python, Tkinter, JSON)  
-- Kullanıcıların yaş ve tercih ettiği film türlerine göre film önerileri sunan masaüstü uygulaması.  
-- JSON tabanlı veri seti kullanılarak film türlerini, anahtar kelimeleri ve yaş sınırlamalarını işledim.  
-- Tkinter ile kullanıcı dostu arayüz tasarladım.  
-- Film seçimi için puanlama ve rastgele seçim algoritmasını uyguladım.  
-- Veri işleme ve öneri sistemleri mantığını pratik ederek tavsiye sistemleri konusunda deneyim kazandım.
+**GTSRB-Traffic-Sign-Classifier** (Python, TensorFlow/Keras, OpenCV, NumPy, Pandas, Matplotlib, Jupyter Notebook)  
+- Alman Trafik İşareti Tanıma Kıyaslama (GTSRB) veri seti ile CNN tabanlı trafik işareti sınıflandırma modeli geliştirdim.  
+- Veri setini Kaggle API ile çekip ön işleme tabi tuttum.  
+- CNN mimarisi ile model eğitildi ve doğruluk/kayıp grafikleri görselleştirildi.  
+- Çıkarım (inference) fonksiyonu ile dışarıdan görüntü dosyası alarak sınıf etiketi ve olasılık döndüren çözüm üretildi.  
+- Google Colab ortamında eğitim ve test süreçlerini gerçekleştirdim.  
+- GitHub: [Repo Link](https://github.com/batuhanatilgan/GTSRB-Traffic-Sign-Classifier)
+
+**Trafik İşareti Sınıflandırma Servisi** (Python, FastAPI, TensorFlow/Keras, Docker)  
+- Docker konteynerinde çalışan FastAPI servisi ile trafik işaretlerini sınıflandıran web uygulaması geliştirdim.  
+- Kullanıcıların yüklediği trafik işareti görsellerini analiz ederek tahmin edilen sınıfı ve olasılığı JSON formatında döndürüyor.  
+- CNN tabanlı modeli entegre ettim ve FastAPI ile REST API tasarladım.  
+- Docker & Docker Compose ile geliştirme ortamını containerize ettim.  
+- GitHub: [Repo Link](https://github.com/batuhanatilgan/traffic-sign-fastapi-service)
 
 **CV Başvuru ve Puanlama Sistemi** (Python, Flask, HTML, CSS, JSON)  
 - Flask tabanlı web uygulaması geliştirerek adayların başvuru verilerini topladım, JSON formatında depoladım ve yönetilebilir hale getirdim.  
 - Programlama dilleri, mezuniyet ve deneyim yılı gibi kriterlere göre adayları otomatik puanlayan dinamik bir değerlendirme sistemi tasarladım.  
-- Kullanıcı dostu arayüz ve esnek puanlama mantığı ile işe alım süreçlerinde hızlı ve objektif ön eleme yapılmasını sağladım.  
+- Kullanıcı dostu arayüz ve esnek puanlama mantığı ile işe alım süreçlerinde hızlı ve objektif ön eleme sağlandı.  
+- GitHub: [Repo Link](https://github.com/batuhanatilgan/Is_Basvuru_Formu)
 
 ---
 
@@ -70,3 +85,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=batuhanatilgan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=batuhanatilgan&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+---
+
