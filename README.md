@@ -84,6 +84,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=batuhanatilgan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=batuhanatilgan&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=batuhanatilgan&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=brightgreen&style=flat" alt="batuhanatilgan Profil Görüntülenme Sayacı" />
 </p>
 
 ---
