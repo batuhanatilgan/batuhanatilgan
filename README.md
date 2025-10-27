@@ -55,30 +55,14 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 Öne Çıkan Projelerim
 
-**GTSRB-Traffic-Sign-Classifier** (Python, TensorFlow/Keras, OpenCV, NumPy, Pandas, Matplotlib, Jupyter Notebook)  
-- Alman Trafik İşareti Tanıma Kıyaslama (GTSRB) veri seti ile CNN tabanlı trafik işareti sınıflandırma modeli geliştirdim.  
-- Veri setini Kaggle API ile çekip ön işleme tabi tuttum.  
-- CNN mimarisi ile model eğitildi ve doğruluk/kayıp grafikleri görselleştirildi.  
-- Çıkarım (inference) fonksiyonu ile dışarıdan görüntü dosyası alarak sınıf etiketi ve olasılık döndüren çözüm üretildi.  
-- Google Colab ortamında eğitim ve test süreçlerini gerçekleştirdim.  
-- GitHub: [Repo Link](https://github.com/batuhanatilgan/GTSRB-Traffic-Sign-Classifier)
-
-**Trafik İşareti Sınıflandırma Servisi** (Python, FastAPI, TensorFlow/Keras, Docker)  
-- Docker konteynerinde çalışan FastAPI servisi ile trafik işaretlerini sınıflandıran web uygulaması geliştirdim.  
-- Kullanıcıların yüklediği trafik işareti görsellerini analiz ederek tahmin edilen sınıfı ve olasılığı JSON formatında döndürüyor.  
-- CNN tabanlı modeli entegre ettim ve FastAPI ile REST API tasarladım.  
-- Docker & Docker Compose ile geliştirme ortamını containerize ettim.  
-- GitHub: [Repo Link](https://github.com/batuhanatilgan/traffic-sign-fastapi-service)
-
-**CV Başvuru ve Puanlama Sistemi** (Python, Flask, HTML, CSS, JSON)  
-- Flask tabanlı web uygulaması geliştirerek adayların başvuru verilerini topladım, JSON formatında depoladım ve yönetilebilir hale getirdim.  
-- Programlama dilleri, mezuniyet ve deneyim yılı gibi kriterlere göre adayları otomatik puanlayan dinamik bir değerlendirme sistemi tasarladım.  
-- Kullanıcı dostu arayüz ve esnek puanlama mantığı ile işe alım süreçlerinde hızlı ve objektif ön eleme sağlandı.  
-- GitHub: [Repo Link](https://github.com/batuhanatilgan/Is_Basvuru_Formu)
-
----
+| Proje | Açıklama | GitHub Linki |
+| :--- | :--- | :--- |
+| **Akıllı Balık Avı Asistanı** | Full-stack Python/Flask ve Firebase projesi. Hava durumu, gelgit ve ay evresini analiz ederek özel bir kural motoruyla balıkçılık tavsiyeleri sunar. | [Repo](https://github.com/batuhanatilgan/akilli-balik-asistani) |
+| **GTSRB-Traffic-Sign-Classifier** | TensorFlow/Keras ile CNN tabanlı Alman Trafik İşareti Tanıma Kıyaslama (GTSRB) veri seti sınıflandırma modeli. | [Repo](https://github.com/batuhanatilgan/GTSRB-Traffic-Sign-Classifier) |
+| **Trafik İşareti Sınıflandırma Servisi** | Eğitilmiş CNN modelini, FastAPI ve Docker kullanarak bir REST API servisi haline getirme. | [Repo](https://github.com/batuhanatilgan/traffic-sign-fastapi-service) |
+| **CV Başvuru ve Puanlama Sistemi** | Flask tabanlı, adayları belirli kriterlere göre (dil, deneyim vb.) otomatik puanlayan bir CV başvuru sistemi. | [Repo](https://github.com/batuhanatilgan/Is_Basvuru_Formu) |
 
 ### 📊 GitHub Stats
 <p align="center">
