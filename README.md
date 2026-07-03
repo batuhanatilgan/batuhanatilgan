@@ -7,9 +7,10 @@
   color: white;
   font-size: 16px;
 ">
-  Yönetim Bilişim Sistemleri 4. sınıf öğrencisi & İstanbul Üniversitesi Bilgisayar Programcılığı öğrencisiyim. <br>
-  Yazılım geliştirici adayı olarak kendimi geliştiriyorum ve gerçek projelerle deneyim kazanıyorum. <br>
-  👨‍💻 Yazılım geliştirme | 📊 Veri işleme | 🎨 UI/UX tasarım ilgisi
+  Pro Sicht'te Software Developer olarak çalışıyorum.<br>
+  Özellikle Yapay Zeka (AI) ve Bilgisayarlı Görü (Computer Vision) alanlarına odaklanıyor;<br>
+  nesne tespiti, pose estimation ve derin öğrenme modelleri üzerine endüstriyel çözümler geliştiriyorum.<br><br>
+  👨‍💻 Software Developer | 🤖 AI & Computer Vision | 👁️ Deep Learning
 </div>
 
 ---
@@ -73,4 +74,3 @@
 </p>
 
 ---
-
